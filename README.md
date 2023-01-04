@@ -1,14 +1,15 @@
 
                                   Marko Palkovskyi
-                        Phone: (916)701-7421 | [e-mail: (marko.palkovskyi@gmail.com)] | Sacramento, CA
-                 LinkedIn: https://www.linkedin.com/in/marko-palkovskyi-7b7757248 GitHub: https://github.com/markpalkovskyi
+                        Phone: (916)701-7421 | e-mail - marko.palkovskyi@gmail.com | Sacramento, CA
+                 LinkedIn: https://www.linkedin.com/in/marko-palkovskyi-7b7757248 
+                 GitHub: https://github.com/markpalkovskyi
 
 Enthusiastic Data Analyst eager to contribute to team success through hard work, attention to detail, and excellent organizational skills. A clear understanding of upcoming tasks and ready for training in the field. Motivated to learn, grow and excel in data analytical industry. Hardworking and passionate job seeker with strong organizational skills eager to secure data entry-level position. Ready to help team achieve company goals.
 
 ## Technical Skills
 * Languages: Python, SQL, R, JavaScript, HTML/CSS, ML, ETL
 
-* Applications: GitHub, PostgreSQL, GIT, AWS, Tableau
+* Applications: Tableau, GitHub, PostgreSQL, GIT, AWS
 
 * Tools: Excel, Pandas, Jupyter Notebook, VS Code
 
@@ -16,7 +17,7 @@ Enthusiastic Data Analyst eager to contribute to team success through hard work,
 Web Scrape | Written link to GitHub : (https://github.com/markpalkovskyi/UFOs)
 This project showcased developing a dynamic table into a website.
 
-*	Role: Sole author
+*	Role: Senior
 
 *	Tools: HTML, CSS, JS, JavaScript
 
@@ -25,7 +26,7 @@ This project showcased developing a dynamic table into a website.
 Tableau | Written link to GitHub : (https://github.com/markpalkovskyi/bikesharing)
 Bike sharing data analysis from Citi Bike in New York City for presentation to investors.
 
-* Role: Sole author
+* Role: Senior
 
 * Tools: Pandas, Tableau
 
@@ -33,7 +34,7 @@ Bike sharing data analysis from Citi Bike in New York City for presentation to i
 
 Unsupervised ML | Written link to GitHub: (https://github.com/markpalkovskyi/Cryptocurrencies)
 
-*	Role : Sole author
+*	Role : Senior
 
 *	Tools: Pandas, Machine Learning, K-means
 
